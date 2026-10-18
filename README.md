@@ -23,3 +23,5 @@ uml-class-diagram-assignment/
 │   ├── Report_1_project_description.pdf
 │   └── Report_2_uml_class_diagram.pdf
 └── README.md
+* **Student Name**: Mustafa Mahadi Mohamed
+* **Registration Number**: 202512507
